@@ -1,0 +1,5 @@
+{
+  "id" :  "#(id)" ,
+  "username" : "#(username)",
+  "city" : "#(city)"
+}
